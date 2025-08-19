@@ -14,7 +14,7 @@
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" />&nbsp;&nbsp;
 <img width="150" height="150" src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib"/>
 <img width="150" height="150" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"/>
-
+<img width='50' height='50' src="https://logo.svgcdn.com/l/microsoft-power-bi.png" alt="Power BI" />
 
 
 
