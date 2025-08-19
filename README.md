@@ -10,10 +10,13 @@
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+<img width='50' height='50' src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server" />
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" />&nbsp;&nbsp;
 <img width="150" height="150" src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib"/>
 <img width="150" height="150" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"/>
+
+
+
 
 ### Também estou disponível em:
 &nbsp;<a href="https://www.linkedin.com/in/vinicius-galv%C3%A3o-84146b334/">
