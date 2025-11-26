@@ -8,14 +8,15 @@
 
 
 
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-<img width='50' height='50' src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server" />
-&nbsp;&nbsp;<img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" />&nbsp;&nbsp;
-<img width="150" height="150" src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib"/>
-<img width="150" height="150" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"/>
-<img width='50' height='50' src="https://logo.svgcdn.com/l/microsoft-power-bi.png" alt="Power BI" />
-
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Excel" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg">
+  <img align="center" alt="Matplotlib" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Seaborn" height="50" width="60" src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg">
+  <img align="center" alt="Scikit_Learn" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+  <img align="center" alt="PowerBI" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</div>
 
 
 ### Também estou disponível em:
