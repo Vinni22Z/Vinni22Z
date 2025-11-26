@@ -1,9 +1,10 @@
-### Oi, eu sou o **Vinicius** 👋
-- Apaixonado por Ciência de Dados e Análise de Dados, adoro transformar dados em insights valiosos.
+# Olá, sou o Vinicius 
 
-- Tenho experiência com Python, SQL, Excel e ferramentas de visualização como Matplotlib e Seaborn.
-- Também estou explorando Machine Learning para levar meus projetos ao próximo nível.
-- Sempre curioso e em constante aprendizado — bora descobrir o que os dados têm a dizer!
+* Sou estudante de **Ciência da Computação** e entusiasta da Inteligência Artificial.
+
+* Tenho um background prático em **Análise de Dados** (Python, SQL, Visualização) e estou expandindo meu portfólio com projetos de **Machine Learning** e **Deep Learning**.
+
+* Meu foco é unir a teoria da computação com a prática da ciência de dados para criar análises robustas e escaláveis.
 
 
 
